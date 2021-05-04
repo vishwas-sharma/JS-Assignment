@@ -1,3 +1,5 @@
+//w.a.p. to enter any number and print faactorial.
+
 function findFactorial(){
     let template=`Enter a number:<input type="number" id="num"/><br>
                   <input type="submit" id="btn" value="GetFactorial"/>`;

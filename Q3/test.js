@@ -1,6 +1,6 @@
 
 
-//w.a.p. to enter 3 number and pribnt middle
+//w.a.p. to enter 3 number and print middle
 function middleNumber(){
     var container=document.querySelectorAll("#container");
     var template=`<label for="num1">Enter First Number:     <input type="number" id="num1" placeholder
