@@ -1,0 +1,1 @@
+//w.a.p. to enter term of series and print fibnucci series.
